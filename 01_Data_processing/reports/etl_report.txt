@@ -1,0 +1,6 @@
+ETL PIPELINE SUMMARY REPORT
+===========================
+Total rows in the raw file:    4
+Total rows after cleaning:     4
+Number of duplicates removed:  0
+Number of missing values found: 1
