@@ -1,0 +1,13 @@
+--- Processing Orders ---
+Order #101: John bought a Laptop for ₹80,000.00
+Order #102: John bought a Mouse for ₹500.00
+Order #103: Mike bought a Keyboard for ₹1,200.00
+Order #104: John bought a Monitor for ₹15,000.00
+
+--- Summary Report ---
+Total Orders Processed: 4
+Total Revenue Generated: ₹96,700.00
+
+
+--- Processing Orders ---
+Error: Could not find 'data/orders.csv'. Please ensure the file exists and you are running the script from the correct root folder.
