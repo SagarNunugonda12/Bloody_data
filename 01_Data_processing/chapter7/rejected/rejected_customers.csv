@@ -1,0 +1,4 @@
+CustomerID,Name,Age,Email,City,RejectionReason
+102,Mike,-5,mike@email.com,Bangalore,Age must be positive (> 0)
+103,,30,sara@email.com,Chennai,Name cannot be empty
+104,Sara,,invalid-email,Hyd,Age must be positive (> 0); Email must contain '@'

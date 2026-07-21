@@ -1,0 +1,25 @@
+===================================
+      DATA QUALITY & PROFILING REPORT
+===================================
+
+--- 1. PROFILING SUMMARY ---
+Total Records      : 6
+Total Columns      : 5
+Duplicate Records  : 1
+
+Missing Values Per Column:
+  - CustomerID: 0
+  - Name: 1
+  - Age: 1
+  - Email: 0
+  - City: 0
+
+--- 2. PIPELINE VALIDATION ---
+Valid Records Saved    : 2
+Rejected Records Saved : 3
+
+Validation Failures By Rule:
+  - Age must be positive (> 0): 2
+  - Email must contain '@': 1
+  - Name cannot be empty: 1
+===================================

@@ -1,0 +1,7 @@
+CustomerID,Name,Age,Email,City
+101,John,25,john@email.com,Hyderabad
+101,John,25,john@email.com,Hyderabad
+102,Mike,-5,mike@email.com,Bangalore
+103,,30,sara@email.com,Chennai
+104,Sara,,invalid-email,Hyd
+105,David,29,david@email.com,Hyderabad
